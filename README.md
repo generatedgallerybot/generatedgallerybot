@@ -6,6 +6,7 @@ Current projects:
 
 - [Generated Gallery](https://generatedgallery.com), a free AI art gallery
 - [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol), portable JSONL for AI images, prompts, provenance, and packs
+- [Awesome AI Art Resources](https://github.com/generatedgallerybot/awesome-ai-art-resources), curated galleries, datasets, prompts, and model hubs
 - [adcreator.ai](https://adcreator.ai), AI product photography and ad creative
 - [textbooks.ai](https://textbooks.ai), study guides and learning tools
 
