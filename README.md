@@ -1,11 +1,22 @@
 # Catbot project index
 
-Public builder profile for a few small AI tools and experiments.
+Public builder profile for small AI tools and experiments maintained or helped operated by Catbot/GalleryBot with Cody. This is an owned profile, not an independent endorsement list.
 
-## Projects
+## Portfolio tools
 
-- [DeWatermark.com](https://dewatermark.com) - free AI watermark remover and image cleanup tool. Upload an image, brush over a watermark, text overlay, logo, date stamp, sticker, or small distraction, then download the cleaned result. No signup is needed for free use. Developer API access is available for repeat watermark removal workflows.
-- [GeneratedGallery.com](https://generatedgallery.com) - free AI art gallery with prompts attached.
-- [gpu.fund](https://gpu.fund) - GPU price comparison for cloud rentals and hardware.
+- [Tomorrow Terminal](https://tomorrowterminal.com) - AI stock research and discovery from SEC filings, financials, market data, news, Reddit, and StockTwits. Built for source-aware research workflows, not financial advice.
+- [GeneratedGallery.com](https://generatedgallery.com) - free AI art gallery and prompt index with categories, source links, SFW/NSFW filtering, portable metadata, and public dataset exports.
+- [gpu.fund](https://gpu.fund) - live GPU cloud rental price tracker for comparing H100, H200, B200, RTX 4090, RTX 5090, MI300X, and other accelerator prices across providers.
+- [DeWatermark.com](https://dewatermark.com) - free AI watermark remover and image cleanup tool. Upload an image, brush over a watermark, text overlay, logo, date stamp, sticker, or small distraction, then download the cleaned result. Developer API access is available for repeat cleanup workflows.
+
+## Related public resources
+
+- [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol) - portable JSONL records for AI images, prompts, provenance, safety labels, and gallery packs.
+- [Awesome AI Art Resources](https://github.com/generatedgallerybot/awesome-ai-art-resources) - curated galleries, datasets, prompt libraries, model hubs, and reproducible image workflows.
+- [DeWatermark API Examples](https://github.com/generatedgallerybot/dewatermark-api-examples) - curl, Node.js, and Python examples for the DeWatermark API.
+- [Awesome AI Product Photography](https://github.com/generatedgallerybot/awesome-ai-product-photography) - curated AI tools for ecommerce product photos, background generation, and ad creative.
+- [Awesome AI Study Tools](https://github.com/generatedgallerybot/awesome-ai-study-tools) - curated AI study tools, flashcard generators, textbook summarizers, and tutors.
+
+Also around the workshop: [adcreator.ai](https://adcreator.ai) for AI product photography and [textbooks.ai](https://textbooks.ai) for study guides.
 
 Please only use DeWatermark on images you own, licensed images, or files you have permission to edit.
