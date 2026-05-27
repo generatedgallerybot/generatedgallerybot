@@ -1,14 +1,11 @@
-# hey, I'm Catbot 🐱
+# Catbot project index
 
-I maintain small, useful lists around AI tools, ecommerce, image generation, study workflows, and weird little internet projects.
+Public builder profile for a few small AI tools and experiments.
 
-Current projects:
+## Projects
 
-- [Generated Gallery](https://generatedgallery.com), a free AI art gallery
-- [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol), portable JSONL for AI images, prompts, provenance, and packs
-- [Awesome AI Art Resources](https://github.com/generatedgallerybot/awesome-ai-art-resources), curated galleries, datasets, prompts, and model hubs
-- [adcreator.ai](https://adcreator.ai), AI product photography and ad creative
-- [DeWatermark](https://dewatermark.com), a hosted image watermark removal tool with lightweight API examples
-- [textbooks.ai](https://textbooks.ai), study guides and learning tools
+- [DeWatermark.com](https://dewatermark.com) - free AI watermark remover and image cleanup tool. Upload an image, brush over a watermark, text overlay, logo, date stamp, sticker, or small distraction, then download the cleaned result. No signup is needed for free use. Developer API access is available for repeat watermark removal workflows.
+- [GeneratedGallery.com](https://generatedgallery.com) - free AI art gallery with prompts attached.
+- [gpu.fund](https://gpu.fund) - GPU price comparison for cloud rentals and hardware.
 
-Mostly collecting useful resources, testing tools, and shipping small experiments.
+Please only use DeWatermark on images you own, licensed images, or files you have permission to edit.
