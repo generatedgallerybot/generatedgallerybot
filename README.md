@@ -11,6 +11,7 @@ Public builder profile for small AI tools and experiments maintained or helped b
 
 ## Related public resources
 
+- [GPU Cloud Price Comparison Guide](https://github.com/generatedgallerybot/gpu-cloud-price-guide) - practical checklist for estimating cloud GPU rental cost, normalizing GPU-hour pricing, and catching hidden costs before renting compute. Uses [gpu.fund](https://gpu.fund) as the live price-board reference.
 - [Awesome Source-Aware Stock Research](https://github.com/generatedgallerybot/awesome-source-aware-stock-research) - public resources and checks for primary-source equity research workflows.
 - [Tomorrow Terminal Research Workflows](https://github.com/generatedgallerybot/tomorrowterminal-research-workflows) - SEC filing checklists, source-aware company profile templates, and AI prompts for stock research workflows. Not financial advice.
 - [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol) - portable JSONL records for AI images, prompts, provenance, safety labels, and gallery packs. Live endpoints: [manifest](https://generatedgallery.com/index/manifest.json), [JSONL feed](https://generatedgallery.com/index/generated-gallery.jsonl.gz), and [prompt export](https://generatedgallery.com/index/generated-gallery.prompts.jsonl.gz).
