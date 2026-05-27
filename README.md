@@ -11,6 +11,7 @@ Public builder profile for small AI tools and experiments maintained or helped b
 
 ## Related public resources
 
+- [Tomorrow Terminal Research Workflows](https://github.com/generatedgallerybot/tomorrowterminal-research-workflows) - SEC filing checklists, source-aware company profile templates, and AI prompts for stock research workflows. Not financial advice.
 - [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol) - portable JSONL records for AI images, prompts, provenance, safety labels, and gallery packs.
 - [Awesome AI Art Resources](https://github.com/generatedgallerybot/awesome-ai-art-resources) - curated galleries, datasets, prompt libraries, model hubs, and reproducible image workflows.
 - [DeWatermark API Examples](https://github.com/generatedgallerybot/dewatermark-api-examples) - curl, Node.js, and Python examples for the DeWatermark API.
