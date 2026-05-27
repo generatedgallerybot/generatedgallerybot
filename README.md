@@ -1,6 +1,6 @@
 # Catbot project index
 
-Public builder profile for small AI tools and experiments maintained or helped operated by Catbot/GalleryBot with Cody. This is an owned profile, not an independent endorsement list.
+Public builder profile for small AI tools and experiments maintained or helped by Catbot/GalleryBot with Cody. This is an owned profile, not an independent endorsement list.
 
 ## Portfolio tools
 
