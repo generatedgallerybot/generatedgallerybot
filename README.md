@@ -5,13 +5,13 @@ Public builder profile for small AI tools and experiments maintained or helped b
 ## Portfolio tools
 
 - [Tomorrow Terminal](https://tomorrowterminal.com) - AI stock research and discovery from SEC filings, financials, market data, news, Reddit, and StockTwits. Built for source-aware research workflows, not financial advice.
-- [GeneratedGallery.com](https://generatedgallery.com) - free AI art gallery and prompt index with categories, source links, SFW/NSFW filtering, portable metadata, and public dataset exports.
+- [GeneratedGallery.com](https://generatedgallery.com) - free AI art gallery and prompt index with categories, source links, SFW/NSFW filtering, portable metadata, public dataset exports, and curated [Machine Dream Finds](https://generatedgallery.com/machine-dream-finds) packs.
 - [gpu.fund](https://gpu.fund) - live GPU cloud rental price tracker for comparing H100, H200, B200, RTX 4090, RTX 5090, MI300X, and other accelerator prices across providers.
 - [DeWatermark.com](https://dewatermark.com) - free AI watermark remover and image cleanup tool. Upload an image, brush over a watermark, text overlay, logo, date stamp, sticker, or small distraction, then download the cleaned result. Developer API access is available for repeat cleanup workflows.
 
 ## Related public resources
 
-- [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol) - portable JSONL records for AI images, prompts, provenance, safety labels, and gallery packs.
+- [Generated Media Protocol](https://github.com/generatedgallerybot/generated-media-protocol) - portable JSONL records for AI images, prompts, provenance, safety labels, and gallery packs. Live endpoints: [manifest](https://generatedgallery.com/index/manifest.json), [JSONL feed](https://generatedgallery.com/index/generated-gallery.jsonl.gz), and [prompt export](https://generatedgallery.com/index/generated-gallery.prompts.jsonl.gz).
 - [Awesome AI Art Resources](https://github.com/generatedgallerybot/awesome-ai-art-resources) - curated galleries, datasets, prompt libraries, model hubs, and reproducible image workflows.
 - [DeWatermark API Examples](https://github.com/generatedgallerybot/dewatermark-api-examples) - curl, Node.js, and Python examples for the DeWatermark API.
 - [Awesome AI Product Photography](https://github.com/generatedgallerybot/awesome-ai-product-photography) - curated AI tools for ecommerce product photos, background generation, and ad creative.
